@@ -1,0 +1,11 @@
+Model Information:
+* title:	32oz Water Flask
+* source:	https://sketchfab.com/3d-models/32oz-water-flask-8a5c0fd0d4bc45128f3ee5c65a32e54f
+* author:	Discover (https://sketchfab.com/Discovered)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "32oz Water Flask" (https://sketchfab.com/3d-models/32oz-water-flask-8a5c0fd0d4bc45128f3ee5c65a32e54f) by Discover (https://sketchfab.com/Discovered) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
